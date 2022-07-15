@@ -1,0 +1,28 @@
+{
+    "posts": [
+      {
+        "userId": "1",
+        "title": "qui est esse 2022",
+        "img": "https://www.w3schools.com/w3images/avatar2.png",
+        "id": 2
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNfh5XEmL28p3fZftINhCjPR1g7V8IDWJ9-H58s0jyp4GMH_nWaRqFrRFu-6CJbaTdK0&usqp=CAU"
+      },
+      {
+        "userId": "1",
+        "title": "My update posted but I don't know updated by app",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWX3RZlNpcAspP46l_5855HVdmSaaigNODySTlswbkwCgveWCucpc-q_Exq8ksRVFwJjk&usqp=CAU",
+        "id": 7
+      },
+      {
+        "userId": "1",
+        "title": "My update post from yyre",
+        "img": "https://cdn-icons-png.flaticon.com/512/194/194938.png?w=360",
+        "id": 8
+      }
+    ]
+  }
